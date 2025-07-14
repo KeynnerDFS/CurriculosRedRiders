@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurriculoRedRiders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2ffda2b2e3232d52e8f2180f3b035894e2a440")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurriculoRedRiders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurriculoRedRiders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

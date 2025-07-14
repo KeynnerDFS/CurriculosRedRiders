@@ -1,0 +1,71 @@
+﻿.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 5px;
+    /* align-items: center;
+    justify-content: center;*/
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 100vh;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.imagem img {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+/*.perfil {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: auto;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}*/
+
+.sobre {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: initial column;
+    gap: 5px 10px;
+    padding: 50px;
+    border-radius: 10px;
+    min-height: 100px;
+    height: 100px;
+    width: 100%;
+    min-width: 100px;
+    max-width: 700px;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.formacao {
+    /*background-color: white;*/
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 100%;
+    width: 700px;
+    height: auto;
+    /* border: 2px solid black;*/
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);*/
+}
+
+.p2 {
+    border: 2px solid black;
+}
+
+.p1 {
+    border: 2px solid black;
+}

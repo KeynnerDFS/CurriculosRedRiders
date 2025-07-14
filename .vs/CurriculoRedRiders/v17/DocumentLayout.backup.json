@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|c:\\users\\2023102020039\\documents\\curriculosredriders\\components\\pages\\curriculokeynner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|solutionrelative:components\\pages\\curriculokeynner.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|c:\\users\\2023102020039\\documents\\curriculosredriders\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|c:\\users\\2023102020039\\documents\\curriculosredriders\\wwwroot\\curriculoscss\\curriculokeynner.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|solutionrelative:wwwroot\\curriculoscss\\curriculokeynner.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|c:\\users\\2023102020039\\documents\\curriculosredriders\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB92661-E895-43E1-8BAE-F253474A1CB2}|CurriculoRedRiders.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:43:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:43:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurriculoKeynner.razor",
+              "DocumentMoniker": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\Pages\\CurriculoKeynner.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\CurriculoKeynner.razor",
+              "ToolTip": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\Components\\Pages\\CurriculoKeynner.razor*",
+              "RelativeToolTip": "Components\\Pages\\CurriculoKeynner.razor*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T14:42:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CurriculoKeynner.css",
+              "DocumentMoniker": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\wwwroot\\CurriculosCss\\CurriculoKeynner.css",
+              "RelativeDocumentMoniker": "wwwroot\\CurriculosCss\\CurriculoKeynner.css",
+              "ToolTip": "C:\\Users\\2023102020039\\Documents\\CurriculosRedRiders\\wwwroot\\CurriculosCss\\CurriculoKeynner.css",
+              "RelativeToolTip": "wwwroot\\CurriculosCss\\CurriculoKeynner.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-14T14:40:39.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
